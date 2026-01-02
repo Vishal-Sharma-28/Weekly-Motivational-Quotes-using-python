@@ -27,4 +27,3 @@ This project demonstrates **email automation, scheduling logic, file handling, a
 
 ---
 
-## 📂 Project Structure
